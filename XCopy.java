@@ -1,4 +1,4 @@
-//excersize = will this compile?
+//exercise = will this compile? Option A
 class XCopy {
     public static void main(String[] args) {
         int orig = 42;
